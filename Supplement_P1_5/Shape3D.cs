@@ -1,6 +1,6 @@
 ﻿namespace Supplement_P1_5
 {
-    public class Class1
+    public abstract class Shape3D
     {
 
     }
