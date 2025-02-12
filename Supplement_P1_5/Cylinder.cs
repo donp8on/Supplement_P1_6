@@ -1,5 +1,10 @@
 ﻿namespace Supplement_P1_5
 {
+    /// <summary>
+    /// This is a 3D Cyclinder shape.
+    /// The class provides functionality to calculate the cyclinder's volume and surface area.
+    /// It includes validation to ensure the height and also radius is greater than zero.
+    /// </summary>
     public class Cylinder : Shape3D
     {
         private double radius;
