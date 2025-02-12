@@ -2,6 +2,11 @@
 
 namespace Supplement_P1_5
 {
+    /// <summary>
+    /// This is a 3D shape, cube.
+    /// The class provides functionality to calculate the cube's volume and surface area.
+    /// It includes validation to ensure the side length is greater than zero.
+    /// </summary>
     public class Cube : Shape3D
     {
         private double sideLength;
