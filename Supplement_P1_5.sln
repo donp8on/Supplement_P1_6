@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supplement_P1_5", "Supplement_P1_5\Supplement_P1_5.csproj", "{C5E8A0A1-E30C-4E80-81E0-5708C86F7470}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supplement_P1_5Tests", "Supplement_P1_5Tests\Supplement_P1_5Tests.csproj", "{3004F74D-83CB-46D3-9AD3-E74C3A724C08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeContainerConsole", "ShapeContainerConsole\ShapeContainerConsole.csproj", "{8AF05601-0777-4048-A113-5DF78546D41A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{3004F74D-83CB-46D3-9AD3-E74C3A724C08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3004F74D-83CB-46D3-9AD3-E74C3A724C08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3004F74D-83CB-46D3-9AD3-E74C3A724C08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AF05601-0777-4048-A113-5DF78546D41A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AF05601-0777-4048-A113-5DF78546D41A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AF05601-0777-4048-A113-5DF78546D41A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AF05601-0777-4048-A113-5DF78546D41A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
