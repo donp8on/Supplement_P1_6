@@ -2,6 +2,10 @@
 
 namespace ShapeContainerConsole
 {
+    /// <summary>
+    /// This class allow the user to create shapes with dimensions they define.
+    /// Also users can get and delete shapes they created from the list.
+    /// </summary>
     public class Program
     {
         static void Main()
